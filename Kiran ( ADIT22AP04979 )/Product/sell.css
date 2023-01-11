@@ -1,0 +1,59 @@
+div
+{
+    border: 5px ridge green;
+    height: 550px;
+    width: 500px;
+}
+.product
+ {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  /* max-width: 300px; */
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+.n
+{
+    height: 15px;
+    width: 95px;
+    background-color: yellowgreen;
+    padding: 10px;
+    margin: 10px;
+}
+.s
+{
+    float: left;
+    padding: 15px;
+    margin: 5px;
+}
+.price 
+{
+  color: grey;
+  font-size: 22px;
+  float: left ;
+  padding: 15px;
+  margin: 5px;
+  
+}
+
+.product button {
+  border: none;
+  outline: 0;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  min-height: 50px;
+  line-height: 50px;
+  font-size: 18px;
+  height: 40px;
+  width: 175px;
+  float: left;
+  margin: 30px;
+ 
+}
+
+.product button:hover {
+  opacity: 0.7;
+}
